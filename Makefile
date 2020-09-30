@@ -1,4 +1,4 @@
-clean:
+clean:best makefile a amaging project
 	rm -rf public
 
 dependencies:
